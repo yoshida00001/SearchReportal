@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Resources/Scene/Weare.unity
+  isLoaded: 1
+  isActive: 1
